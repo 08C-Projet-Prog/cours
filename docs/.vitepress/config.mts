@@ -8,7 +8,7 @@ export default defineConfig({
   title: "420-08C-FX",
   description: "Énoncés, grilles, calendrier et ressources du cours",
   themeConfig: {
-    logo: '/logos/logo.png',
+    logo: './logos/logo.png',
     nav: [
       { text: 'Calendrier', link: '/calendrier' },
       { text: 'Horaires', link: '/horaires' },
