@@ -86,5 +86,5 @@ Pénalité : -10 % par jour de retard (maximum 3 jours)
 :::
 
 ::: tip Rappel
-[Voir la grille de correction avec critères détaillés.](/docs/grilles/grille-planif-projet.md)
+[Voir la grille de correction avec critères détaillés.](../grilles/grille-planif-projet.md)
 :::

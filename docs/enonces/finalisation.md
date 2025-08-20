@@ -57,7 +57,7 @@ Pénalité : **-10 % par jour de retard** (si le dépôt est modifié après la 
 :::
 
 ::: tip Rappel
-[Voir la grille de correction avec critères détaillés.](/docs/grilles/grille-finalisation.md)
+[Voir la grille de correction avec critères détaillés.](../grilles/grille-finalisation.md)
 :::
 
 ## Déroulement de la finalisation

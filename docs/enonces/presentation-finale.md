@@ -19,7 +19,7 @@
 ---
 
 # Conseils pour une présentation efficace
-- ⏱ **Respectez le temps** : ne cherchez pas à montrer toutes les fonctionnalités mineures, concentrez-vous sur les éléments clés et représentatifs.  
+- **Respectez le temps** : ne cherchez pas à montrer toutes les fonctionnalités mineures, concentrez-vous sur les éléments clés et représentatifs.  
 - **Préparez un scénario de démonstration** : évitez les allers-retours désorganisés, montrez un **parcours utilisateur clair**.  
 - **Testez avant la présentation** : préparez une version stable de l’application, prête à être exécutée sans configuration complexe.  
 - **Soyez concis dans vos explications** : privilégiez la clarté plutôt que les détails techniques trop longs.  

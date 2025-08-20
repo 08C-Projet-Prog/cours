@@ -60,7 +60,7 @@ Pénalité : -10 % (à la note globale du sprint) par jour de retard (maximum 3 
 :::
 
 ::: tip Rappel
-[Voir la grille de correction avec critères détaillés.](/docs/grilles/grille-sprint.md)
+[Voir la grille de correction avec critères détaillés.](../grilles/grille-sprint.md)
 :::
 
 ---

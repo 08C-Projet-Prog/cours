@@ -42,7 +42,7 @@ Vous devez inclure dans cette section sous forme de capture d’écran:
 
 ## Procédure de remise
 - Le fichier de planification doit être remis avant le début du sprint.
-- À remettre sur LÉA un document PDF nommé : Fin_Sprint[numéro]_Nom1_Nom2.pdf
+- À remettre sur LÉA un document PDF nommé : `Fin_Sprint[numéro]_Nom1_Nom2.pdf` 
 - Rédaction claire, sans fautes majeures de français (-0,25 % par faute , max. 20 %).
 - Présentation structurée avec titres et sous-titres.
 - Voir la grille de correction avec critères détaillés.
@@ -57,5 +57,5 @@ La date de remise du rapport de fin de sprint est la même que celle de la plani
 :::
 
 ::: tip Rappel
-[Voir la grille de correction avec critères détaillés.](/docs/grilles/grille-sprint.md)
+[Voir la grille de correction avec critères détaillés.](../grilles/grille-sprint.md)
 :::
