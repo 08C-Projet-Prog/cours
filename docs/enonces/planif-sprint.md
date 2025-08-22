@@ -11,7 +11,12 @@ Ce document permet de :
 ---
 
 ## Contenu attendu
-Votre document doit inclure les sections suivantes :  
+Pour ce travail de planification, vous devez produire un **document PDF**  structuré à l’aide des sections suivantes :
+1) Informations générales
+2) Objectifs du sprint
+3) Backlog du sprint
+4) Critères de complétion
+5) Liens vers les outils
 
 ### Informations générales
 - Nom du projet  
@@ -22,16 +27,18 @@ Votre document doit inclure les sections suivantes :
 Description claire et concise des fonctionnalités ou améliorations prévues.  
 
 ### Backlog du sprint
-Tableau présentant les tâches prévues (en ordre de priorité) pour le sprint :  
+Tableau présentant les récits prévus (en ordre de priorité) pour le sprint :  
 
-| ID tâche | Titre | Estimation (h) | Responsable | Dépendances |
+| ID récit | Titre | Estimation (h) | Responsable | Dépendances |
 |----------|-------|----------------|-------------|-------------|
 | 1 | Ex : Implémenter le menu principal | 5 h | Alex | — |
-| 2 | Ex : Intégrer l’API vidéo d’aide | 4 h | Sam | Tâche 1 |
+| 2 | Ex : Intégrer l’API vidéo d’aide | 4 h | Sam | Récit 1 |
 
+- Vos récits doivent être complètement documentés selon les normes établies dans [Récits utilisateur](../ressources/userstory.md)
 - Vous devez aussi inclure une **capture d’écran** de l’état de votre tableau Kanban.  
-- Les tâches à réaliser pour le sprint à venir devraient être dans la colonne **À faire**.  
-- Les tâches non complétées à la fin du sprint devront être **replanifiées** dans le sprint suivant.  
+- Les récits à réaliser pour le sprint à venir devraient être dans la colonne **À faire**.
+- Les récits pourront être déplacés dans les colonnes subséquentes pendant la réalisation du sprint.  
+- Les récits non complétés à la fin du sprint devront être **replanifiés** dans le sprint suivant.  
 
 ### Critères de complétion
 Liste des conditions permettant de considérer le sprint terminé avec succès.  
@@ -59,6 +66,12 @@ Indiquée dans LÉA pour le # de sprint concerné.
 Pénalité : -10 % (à la note globale du sprint) par jour de retard (maximum 3 jours)
 :::
 
+::: warning Qualité du code
+La qualité de votre code et de votre dépôt dans leurs états actuels seront également évalués à la fin de chaque sprint.<br>
+[Voir les normes de nomenclature de code attendues](../ressources/normes_nomenclature_code.md)<br>
+[Voir les normes de commentaires attendues](../ressources/normes_commentaires.md)
+:::
+
 ::: tip Rappel
 [Voir la grille de correction avec critères détaillés.](../grilles/grille-sprint.md)
 :::
@@ -66,6 +79,8 @@ Pénalité : -10 % (à la note globale du sprint) par jour de retard (maximum 3 
 ---
 
 ## Déroulement du sprint
+**Vous serez évalués pendant toutes les étapes du sprint.**
+
 Chaque sprint doit suivre le cycle suivant :  
 
 ### Planification (avant le sprint)
@@ -80,7 +95,8 @@ Chaque sprint doit suivre le cycle suivant :
 
 ### Clôture (fin du sprint)
 - Démonstration du travail réalisé (présentation du sprint).  
-  > Vous serez évalués sur la présentation convaincante des fonctionnalités réalisées pendant le sprint.  
+  > Vous serez évalués sur la présentation convaincante des fonctionnalités réalisées pendant le sprint.
+  > Assurez-vous de présenter une version stable de votre application et d'avoir bien pratiqué ce que vous démontrerez.
 - Remise du rapport de fin de sprint (à la même date que la planification du prochain sprint).  
 
 ---

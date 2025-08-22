@@ -27,14 +27,19 @@ export default defineConfig({
         items: [
           { text: 'Planification du projet', link: '/grilles/grille-planif-projet' },
           { text: 'Sprint (complet)', link: '/grilles/grille-sprint' },
-          { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' },
+          { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' }
         ]
        },
       {
         text: 'Ressources',
         items: [
           { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
-          { text: 'Liens utiles', link: '/ressources/liens-utiles' },
+          { text: 'Récits utilisateur', link: '/ressources/userstory' },
+          { text: 'GitHub Project', link: '/ressources/github-project' },
+          { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
+          { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
+          { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
+          { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
     ],
@@ -44,7 +49,7 @@ export default defineConfig({
         items: [
           { text: 'Plan de cours', link: '/plan-de-cours' },
           { text: 'Calendrier', link: '/calendrier' },
-          { text: 'Horaires', link: '/horaires' },
+          { text: 'Horaires', link: '/horaires' }
         ]
       },
       {
@@ -62,7 +67,7 @@ export default defineConfig({
         items: [
           { text: 'Planification du projet', link: '/grilles/grille-planif-projet' },
           { text: 'Sprint (complet)', link: '/grilles/grille-sprint' },
-          { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' },
+          { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' }
         ]
       },
       {
@@ -70,14 +75,19 @@ export default defineConfig({
         items: [
           { text: 'Planification du projet', link: '/templates/planif-projet-modele' },
           { text: 'Planification de sprint', link: '/templates/planif-sprint-modele' },
-          { text: 'Rapport fin de sprint', link: '/templates/fin-sprint-modele' },
+          { text: 'Rapport fin de sprint', link: '/templates/fin-sprint-modele' }
         ]
       },
       {
         text: 'Ressources',
         items: [
           { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
-          { text: 'Liens utiles', link: '/ressources/liens-utiles' },
+          { text: 'Récits utilisateur', link: '/ressources/userstory' },
+          { text: 'GitHub Project', link: '/ressources/github-project' },
+          { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
+          { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
+          { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
+          { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
     ],

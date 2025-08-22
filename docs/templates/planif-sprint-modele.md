@@ -1,53 +1,43 @@
-# Rapport de fin de sprint
+# Planification de sprint
 
 ## Informations générales
-- **Nom du projet** : [Inscrire le nom du projet]  
-- **Membre(s) de l’équipe** : [Nom(s)]  
+- **Nom du projet** : [À compléter]  
+- **Membre(s) de l’équipe** : [À compléter]  
 - **Numéro du sprint** : [1, 2 ou 3]  
 
 ---
 
-## Fonctionnalités livrées
-- [Décrire les fonctionnalités terminées]  
-- [Préciser si les critères de complétion définis en début de sprint sont respectés]  
-
-**Critères respectés :**  
-- [ ] Oui  
-- [ ] Non → Justification : [Expliquer pourquoi]  
+## Objectifs du sprint
+[Décrire clairement les fonctionnalités ou améliorations prévues.]  
 
 ---
 
-## Fonctionnalités à replanifier
-- [Lister les fonctionnalités/tâches non terminées]  
-- **Raison** : [Expliquer pourquoi elles n’ont pas été complétées]  
-- **Replanification** : [Indiquer dans quel sprint elles seront reprises]  
+## Backlog du sprint
+
+| ID récit | Titre | Estimation (h) | Responsable | Dépendances |
+|----------|-------|----------------|-------------|-------------|
+| 1 | [Ex : Implémenter le menu principal] | [5 h] | [Nom] | [—] |
+| 2 | [Ex : Intégrer l’API vidéo d’aide] | [4 h] | [Nom] | [Récit 1] |
+
+👉 **À insérer** : capture d’écran du tableau **Kanban** avec l’état actuel.  
 
 ---
 
-## Rétroaction du sprint
-| Positif (ce qui a bien fonctionné) | Négatif (ce qui a moins bien fonctionné) | Améliorations (actions concrètes) |
-|-----------------------------------|------------------------------------------|-----------------------------------|
-| [Exemple : bonne communication]   | [Exemple : mauvaise estimation des heures] | [Exemple : raffiner l’estimation des tâches] |
-|                                   |                                          |                                   |
+## Critères de complétion
+[Indiquer les conditions précises qui permettent de considérer le sprint comme réussi.]  
+
+Exemple :  
+« Le module de gestion de profil est accessible depuis le menu principal, permet la saisie et la sauvegarde des données dans un fichier de préférences et affiche un message de confirmation. »
 
 ---
 
-## Diagramme des classes produites
-👉 **À insérer** : capture d’écran du diagramme UML de classes.  
-- Inclure : nom des classes, principales propriétés et méthodes, relations (composition, héritage, associations).  
-- Mettre en évidence les nouvelles classes créées ou modifiées dans ce sprint.  
-- **Outil utilisé** : [Visual Studio / draw.io / Lucidchart / autre]  
+## Liens vers les outils
+- Tableau Kanban – GitHub Projects: (URL à insérer)  
+- Dépôt GitHub: (URL à insérer)  
 
 ---
 
-## Liens
-- [Tableau Kanban – GitHub Projects](URL à insérer)  
-- [Dépôt GitHub](URL à insérer)  
-
----
-
-## Note
-Le rapport doit être remis sur **LÉA** en format PDF nommé :  
-`Fin_Sprint[numéro]_Nom1_Nom2.pdf`  
-
-Pénalité : **10 % par jour de retard (max 3 jours)**.  
+## Notes
+- Les récits doivent suivre le format **En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice]**.  
+- Tout bogue découvert doit être ajouté dans la colonne **Bogues** du Kanban.  
+- Les récits non terminés devront être **replanifiés** au sprint suivant.  

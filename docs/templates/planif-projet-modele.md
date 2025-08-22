@@ -3,7 +3,6 @@
 ## Informations générales
 - **Titre du projet** : [...]
 - **Membre(s) de l’équipe** : [...]
-- **Langage et environnement de développement** : [...]
 - **A été approuvé par le prof** : Oui / Non
 
 ---
@@ -36,9 +35,9 @@
 
 ## Organisation du projet
 ### Découpage préliminaire en tâches
-- Tâche 1 : [...]  
-- Tâche 2 : [...]  
-- Tâche 3 : [...]
+- Récit 1 : [...]  
+- Récit 2 : [...]  
+- Récit 3 : [...]
 
 ### Répartition des tâches (si en équipe)
 - Personne A : [...]  

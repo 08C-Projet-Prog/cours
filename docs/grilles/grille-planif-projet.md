@@ -2,19 +2,17 @@
 
 ---
 
-## Identification du projet (10%)
+## Qualité du rapport (5%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
-| **A**  | Projet clairement identifié : titre, membres, langage/IDE valides, conforme aux exigences (objet, exe Windows). | 100% |
-| **B**  | Projet identifié mais avec légères imprécisions (ex. IDE non indiqué, manque mineur). | 80% |
-| **C**  | Informations partielles ou incomplètes (titre, membres ou techno manquants). | 60% |
-| **D**  | Informations minimales fournies, plusieurs manques importants.              | 40% |
-| **E**  | Non remis ou incompréhensible.                                              | 0%  |
+| **A**  | Rapport clair, bien structuré avec titres et sous-titres; rédigé sans fautes majeures; présentation professionnelle. | 100% |
+| **C**  | Rapport partiel ou manquant de clarté; organisation moyenne; plusieurs fautes de rédaction. | 60% |
+| **E**  | Rapport absent ou incompréhensible.                                              | 0%  |
 
 ---
 
-## Récit utilisateur principal (15%)
+## Récit utilisateur principal (10%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -26,7 +24,7 @@
 
 ---
 
-## Fonctionnalités prévues (20%)
+## Fonctionnalités prévues (30%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -50,11 +48,11 @@
 
 ---
 
-## Organisation & planification (20%)
+## Organisation & planification (25%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
-| **A**  | Tâches bien découpées, dépendances identifiées, planification claire pour les 3 sprints. | 100% |
+| **A**  | Récits bien découpés, conformes au format attendu (*En tant que…, je veux…, afin de…*), dépendances identifiées, planification claire pour les 3 sprints. | 100% |
 | **B**  | Planification existante mais certaines dépendances ou détails manquants.     | 80% |
 | **C**  | Planification sommaire, difficile à suivre.                                 | 60% |
 | **D**  | Très peu structuré.                                                         | 40% |
@@ -62,7 +60,7 @@
 
 ---
 
-## Liens GitHub et Kanban (15%)
+## Liens GitHub et Kanban (10%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|

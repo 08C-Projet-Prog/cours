@@ -40,7 +40,7 @@
   - **À faire** : tâches choisies pour le sprint.  
   - **En cours** : tâches en développement.  
   - **Terminée** : tâches complétées.  
-  - **Bogues** : problèmes découverts à corriger.  
+  - **Bogues et finition** : problèmes découverts à corriger et tâches de finition.  
 
 ---
 

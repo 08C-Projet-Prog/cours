@@ -13,12 +13,12 @@ Votre document doit inclure les sections suivantes :
 - Membre(s) de l’équipe
 - Numéro du sprint (1, 2 ou 3)
 
-### Fonctionnalités livrées
-- Liste des fonctionnalités terminées durant le sprint.
+### Récits livrés
+- Liste des fonctionnalités et récits terminés durant le sprint.
 - Indiquer si les critères de complétion définis en début de sprint sont respectés (oui/non, avec justification).
 
-### Fonctionnalités à replanifier
-- Mentionner les tâches non terminées (et pourquoi).
+### Récits à replanifier
+- Mentionner les récits non terminés (et pourquoi).
 - Indiquer comment elles seront replanifiées dans le sprint suivant.
 
 ### Rétroaction du sprint

@@ -30,14 +30,32 @@ Votre travail de stabilisation doit inclure les éléments suivants :
 - S’assurer que les fichiers du projet sont bien nommés, organisés et que le code est lisible.
 
 ### Aide à l’utilisateur
-- Intégrer au moins une ressource d’aide **vidéo** expliquant une fonctionnalité ou un flux d’utilisation de l’application.
-- Cette ressource doit être accessible depuis l’interface.
+Dans le cadre de la phase de finition, vous devez produire et intégrer une vidéo de tutoriel à votre application.
+- La video doit être **locale**, et être lue par un lecteur embarqué.
+- Pas de YouTube ! (sauf dérogation)
+- La durée maximum pour la capsule de tutoriel est de 10 minutes 
+- Vous devez effectuer la démonstration de l’utilisation des différentes fonctionnalités du site. Il s’agit d’une vidéo tutoriel, **vous ne devez pas y montrer le code**, expliquer les points à corriger ou améliorer de l’application ou autres informations non pertinentes pour l’utilisateur non technique.
+- Vous devez accompagner votre démonstration d’explications orales.
+
+Il existe de nombreux logiciels d’enregistrement/édition vidéo gratuits. Voici une liste suggestive et non exhaustive : [Free Cam](https://www.freescreenrecording.com/), [ScreenPal](https://screenpal.com/) (version gratuite de 15 mns max), [OBS](https://obsproject.com/) (plus avancé)
 
 ### Documentation technique
 Inclure dans le **README** du dépôt Git :
-- Instructions d’installation et de configuration.
-- Description des modules et classes principales.
-- Liste des dépendances et ressources externes utilisées.
+- Vous devez rédiger un document d’introduction à votre dépôt (Readme.md) renseignant sur les aspects suivants :
+    - Nature et objectif du projet (type de projet, clientèle cible, etc.)
+    - Technologies utilisées.
+    - Fonctionnalités servies par le projet.
+    - Degré de complétion.
+        - Si incomplet, par rapport au document de planification initial, expliquer sur quels aspects doit porter la complétion.
+    - Bogues persistants.
+    - Possibles améliorations.
+    - Procédure d'installation client
+    - Procédure d'installation pour les développeurs :
+        - Framework requis
+        - Packages requis
+        - Commande à exécuter
+        - etc.
+        - comptes utilisateurs et mots de passes
 
 ### Outils de suivi et dépôt distant
 - Mettre à jour le dépôt GitHub avec le code final.
@@ -46,7 +64,7 @@ Inclure dans le **README** du dépôt Git :
 ## Procédure de remise
 - Rien à remettre dans **LÉA**. Votre dépôt doit être à jour d’ici la date de remise.
 - Code source complet dans le dépôt distant (branche principale à jour).
-- Projet exécutable **(.exe sous Windows)** téléchargeable dans une **Release GitHub**.
+- Projet exécutable **(.exe sous Windows)** téléchargeable dans une [Release GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
 - **Date limite : mardi 9 décembre à 8h00 (jour de la présentation).**
 - Pénalité : **-10 % par jour de retard** (si le dépôt est modifié après la date de remise, max 3 jours).
 - Voir la grille de correction avec critères détaillés.

@@ -2,7 +2,7 @@
 
 ---
 
-## Planification du sprint (25%)
+## Planification du sprint (30%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -14,7 +14,7 @@
 
 ---
 
-## Suivi et déroulement (25%)
+## Suivi et déroulement (20%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -26,7 +26,7 @@
 
 ---
 
-## Fonctionnalités livrées et présentation (25%)
+## Fonctionnalités livrées et présentation (15%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -38,7 +38,7 @@
 
 ---
 
-## Qualité de la rétroaction et du diagramme (25%)
+## Qualité de la rétroaction et du diagramme (20%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -47,3 +47,15 @@
 | **C**  | Rétroaction sommaire, diagramme minimal.                                    | 60% |
 | **D**  | Rétroaction faible, diagramme incomplet ou confus.                          | 40% |
 | **E**  | Aucun élément fourni.                                                       | 0%  |
+
+---
+
+## Qualité du code et respect des normes (15%)
+
+| Niveau | Description                                                                 | Note |
+|--------|-----------------------------------------------------------------------------|------|
+| **A**  | Respect rigoureux des normes (nomenclature, conventions); commentaires clairs et présents; documentation adéquate; gestion Git exemplaire (commits fréquents et pertinents, pushes réguliers, au moins un par semaine). | 100% |
+| **B**  | Respect global des normes avec quelques oublis; commentaires présents mais inégaux; utilisation correcte de Git (commits réguliers mais parfois moins pertinents). | 80% |
+| **C**  | Respect partiel des normes; commentaires limités; documentation minimale; Git utilisé mais de façon irrégulière (commits/pushes peu fréquents). | 60% |
+| **D**  | Respect faible des conventions; commentaires rares ou peu utiles; Git utilisé de façon très ponctuelle. | 40% |
+| **E**  | Absence de normes respectées; aucun commentaire/documentation; absence d’utilisation significative de Git. | 0% |
