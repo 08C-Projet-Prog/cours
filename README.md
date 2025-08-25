@@ -20,18 +20,19 @@ Il regroupe les énoncés, grilles, modèles et ressources.
 ---
 
 ## 📂 Structure
-cours/
-├─ .vitepress/ # Config, thème, CSS
-├─ enonces/ # Énoncés (planif, sprint, finalisation…)
-├─ grilles/ # Grilles d’évaluation
-├─ img/ images utilisées dans le site
-├─ public/ plan de cours et documents
-├─ ressources/ # Guides (Scrum, UML, Git…)
-├─ templates/ # Modèles à copier
-├─ calendrier.md # Calendrier des remises
-├─ horaires.md # Horaire des suivis
-├─ index.md # Page d’accueil
-└─ plan-de-cours.md
+
+- `cours/`
+  - `.vitepress/` → Config, thème, CSS
+  - `enonces/` → Énoncés (planif, sprint, finalisation…)
+  - `grilles/` → Grilles d’évaluation
+  - `img/` → Images utilisées dans le site
+  - `public/` → Plan de cours et documents
+  - `ressources/` → Guides (Scrum, UML, Git…)
+  - `templates/` → Modèles à copier
+  - `calendrier.md` → Calendrier des remises
+  - `horaires.md` → Horaire des suivis
+  - `index.md` → Page d’accueil
+  - `plan-de-cours.md` → Plan de cours
 
 ---
 
