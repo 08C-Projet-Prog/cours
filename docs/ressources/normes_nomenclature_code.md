@@ -1,5 +1,6 @@
 
 # Nomenclature de Code  
+<blockquote>D'après les notes de cours de Martin Vézina</blockquote>
 
 Ce document présente les normes et conventions à respecter en matière de nomenclature du code. La science est plus directive que pour les commentaires, mais là encore, des choix communautaires ou culturels peuvent s’imposer.
 

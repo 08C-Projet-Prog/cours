@@ -1,4 +1,5 @@
 # Récits utilisateur
+<blockquote>D'après les notes de cours de Martin Vézina</blockquote>
 
 
 Un récit utilisateur (<i>User Story</i>) est une description simple et concise d'une fonctionnalité du point de vue de l'utilisateur final. Il permet de clarifier ce qui doit être développé en se concentrant sur la valeur ajoutée pour l’utilisateur.

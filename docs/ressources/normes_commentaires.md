@@ -1,5 +1,6 @@
 
 # Commentaires de Code  
+<blockquote>D'après les notes de cours de Martin Vézina</blockquote>
 
 
 Il n’existe pas de consensus au sujet de la façon de commenter les programmes. Ce document présente les normes à respecter en matière de commentaire de programme pour ce cours. Inspirez-vous en pour commenter le code de vos projets.
