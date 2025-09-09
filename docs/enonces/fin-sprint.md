@@ -6,15 +6,25 @@
 - Mettre à jour la représentation du projet via un diagramme de classes.
 
 ## Contenu attendu
-Votre document doit inclure les sections suivantes :
+Pour ce travail de rétroaction, vous devez produire un **document PDF**  structuré à l’aide des sections suivantes :
+1) Informations générales
+2) Réussite du sprint
+3) Récits livrés
+4) Récits à replanifier
+5) Rétroaction du sprint
+6) Diagramme des classes produites
+
 
 ### Informations générales
 - Nom du projet
 - Membre(s) de l’équipe
 - Numéro du sprint (1, 2 ou 3)
 
+### Réussite du sprint
+- Indiquer si les critères de complétion du sprint sont respectés (oui/non, avec justification).
+
 ### Récits livrés
-- Liste des fonctionnalités et récits terminés durant le sprint.
+- Liste des et récits terminés durant le sprint.
 - Indiquer si les critères de complétion définis en début de sprint sont respectés (oui/non, avec justification).
 
 ### Récits à replanifier

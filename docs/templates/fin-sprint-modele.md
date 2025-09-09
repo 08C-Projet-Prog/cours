@@ -7,20 +7,16 @@
 
 ---
 
-## Fonctionnalités livrées
-- [Décrire les fonctionnalités terminées]  
-- [Préciser si les critères de complétion définis en début de sprint sont respectés]  
-
-**Critères respectés :**  
-- [ ] Oui  
-- [ ] Non → Justification : [Expliquer pourquoi]  
+## Récits livrés
+- [Décrire les récits terminés]  
+- [Préciser si les critères de complétion définis en début de sprint sont respectés]
 
 ---
 
-## Fonctionnalités à replanifier
-- [Lister les fonctionnalités/tâches non terminées]  
-- **Raison** : [Expliquer pourquoi elles n’ont pas été complétées]  
-- **Replanification** : [Indiquer dans quel sprint elles seront reprises]  
+## Récits à replanifier
+- [Lister les récits non terminés]  
+- **Raison** : [Expliquer pourquoi il n’ont pas été complétés]  
+- **Replanification** : [Indiquer dans quel sprint ils seront repris]  
 
 ---
 
