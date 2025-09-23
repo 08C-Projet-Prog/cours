@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
           { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
+          { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
@@ -87,6 +88,7 @@ export default defineConfig({
           { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
           { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
+          { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
