@@ -44,7 +44,7 @@ Il doit montrer les **classes principales**, leurs **propriétés** et leurs **m
 
 ---
 
-## Exemple simplifie
+## Exemple simplifié
 ```text
 +---------------------------------+
 |    GestionnaireTaches           |
@@ -65,13 +65,13 @@ Il doit montrer les **classes principales**, leurs **propriétés** et leurs **m
 
  ## Attentes pour vos rapports
 
-- Votre diagramme doit etre a jour a la fin de chaque sprint.
+- Votre diagramme doit etre à jour a la fin de chaque sprint.
 - Les nouvelles classes ou modifications doivent etre clairement visibles (utiliser un outil de traitement d'image au besoin).
 - Joindre une capture d’ecran lisible dans vos documents remis (planification, fin de sprint, finalisation).
 
 ## Outils gratuits recommandés
 
-Voici quelques solutions accessibles pour creer vos diagrammes de classes UML :
+Voici quelques solutions accessibles pour créer vos diagrammes de classes UML :
 
 - **[draw.io (diagrams.net)](https://app.diagrams.net/)**  
   Outil gratuit en ligne, simple et efficace, exportable en image ou PDF.  
@@ -84,7 +84,7 @@ Voici quelques solutions accessibles pour creer vos diagrammes de classes UML :
   Interface conviviale, pratique pour des diagrammes rapides.  
 
 - **[PlantUML](https://plantuml.com/)**  
-  Outil texte → diagramme. Ideal si vous preferez ecrire votre diagramme et le generer automatiquement.  
+  Outil texte → diagramme. Idéal si vous préférez écrire votre diagramme et le générer automatiquement.  
 
 - **[Mermaid.js](https://mermaid.js.org/)**  
-  Integre dans certains editeurs Markdown et GitHub, permet de faire des diagrammes UML directement en Markdown.  
+  Intégré dans certains editeurs Markdown et GitHub, permet de faire des diagrammes UML directement en Markdown.  
