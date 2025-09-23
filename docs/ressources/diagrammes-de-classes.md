@@ -76,7 +76,7 @@ Voici quelques solutions accessibles pour créer vos diagrammes de classes UML :
 - **[draw.io (diagrams.net)](https://app.diagrams.net/)**  
   Outil gratuit en ligne, simple et efficace, exportable en image ou PDF.  
 
-- ** **[UMlet](https://umlet.com/)**
+- **[UMlet](https://umlet.com/)**
   Logiciel bureau gratuit et simple d'utilisation pour concevoir différents digrammes UML.
 
 
