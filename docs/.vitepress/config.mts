@@ -40,6 +40,7 @@ export default defineConfig({
           { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
+          { text: 'GitHub Release', link: '/ressources/github-release' },
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
@@ -89,6 +90,7 @@ export default defineConfig({
           { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
+          { text: 'GitHub Release', link: '/ressources/github-release' },
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
