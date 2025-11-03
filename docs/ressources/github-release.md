@@ -1,5 +1,3 @@
-outline : deep
-
 # Guide — Créer une release GitHub manuelle
 
 ## Objectif
