@@ -5,6 +5,10 @@
 Publier une application WPF sur GitHub sous forme de *release manuelle*.  
 Cette procédure permet à toute personne de **télécharger et d’exécuter** la version compilée d’une application.
 
+::: tip Conseil
+[Suivre la vidéo tutoriel de ce guide.](https://youtu.be/ccaST5fXyA4)
+:::
+
 ---
 
 ## Étapes à suivre
