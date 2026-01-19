@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./chunks/framework.DX2MDgaT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"horaires.md","filePath":"horaires.md"}'),a={name:"horaires.md"};function o(s,c,n,i,p,_){return t(),r("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};
