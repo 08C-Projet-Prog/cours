@@ -18,9 +18,6 @@ actions:
     - theme: alt
       text: 📝 Grilles
       link: /grilles
-    - theme: alt
-      text: ⏰ Horaires
-      link: /horaires
 
 features:
   - icon: 📖

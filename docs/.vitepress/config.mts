@@ -11,7 +11,6 @@ export default defineConfig({
     logo: './logos/logo.png',
     nav: [
       { text: 'Calendrier', link: '/calendrier' },
-      { text: 'Horaires', link: '/horaires' },
       { 
         text: 'Énoncés',
         items: [
@@ -50,8 +49,7 @@ export default defineConfig({
         text: 'Documents généraux',
         items: [
           { text: 'Plan de cours', link: '/plan-de-cours' },
-          { text: 'Calendrier', link: '/calendrier' },
-          { text: 'Horaires', link: '/horaires' }
+          { text: 'Calendrier', link: '/calendrier' }
         ]
       },
       {
